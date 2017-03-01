@@ -1,0 +1,5 @@
+What happens when you initialize a repository? 
+	creates the .git file that tracks changes
+
+Why do you need to do it?
+	because .git file is what makes the git repository a git repository - otherwise it is just a normal folder
