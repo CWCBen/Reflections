@@ -3,3 +3,9 @@ What happens when you initialize a repository?
 
 Why do you need to do it?
 	because .git file is what makes the git repository a git repository - otherwise it is just a normal folder
+
+How is the staging area different from the working directory and the repository? 
+	staging is different from the working dir in that not all files in the working dir are going to be a part of the staging area - maybe files that you never want to change - working dir is a gen folder - staging area is for files that we want to add to the git repository
+
+What value do you think it offers?
+	the value of a working dir being seperated from the staging area is that it allows us to have a logical place to keep our files in the same folder but not have to add them all to the git repository
