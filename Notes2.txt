@@ -9,3 +9,6 @@ How is the staging area different from the working directory and the repository?
 
 What value do you think it offers?
 	the value of a working dir being seperated from the staging area is that it allows us to have a logical place to keep our files in the same folder but not have to add them all to the git repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+	Probably best practice to only add the files relevant to the major change per each commit
